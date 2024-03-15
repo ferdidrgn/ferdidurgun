@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Kotlin,Java, Python**
 
-- 💬 Ask me about **the simple things :)**
+- 💬 Ask me about **Kotlin, Python, Android**
 
 - 📫 How to reach me **ferdidurgun@hotmail.com**
 
@@ -35,6 +35,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://banabicoffee.com/@ferdidrgn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://banabicoffee.com/@ferdidrgn" /></a></p><br><br>
+
+<p>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdidrgn&show_icons=true&locale=en&layout=compact" alt="ferdidrgn" /></p>
 
