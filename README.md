@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [AnlikDepremler](https://github.com/ferdidrgn/AnlikDepremler/)
 
-- 🌱 I’m currently learning **Kotlin,Java, Python**
+- 🌱 I’m currently learning **Kotlin, Dart, Java, Python**
 
 - 💬 Ask me about **Kotlin, Python, Android**
 
