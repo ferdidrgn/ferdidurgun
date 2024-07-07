@@ -1,8 +1,8 @@
+
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=ferdidrgn)
 ### Hi there, It's Ferdi 👋
 
 <h3 align="center">A passionate Android developer from Turkey</h3>
-
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=ferdidrgn)
 
 # Summary
 My CV page: ...
