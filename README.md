@@ -1,13 +1,21 @@
-# ferdidurgun
+### Hi there, It's Ferdi 👋
 
-<h1 align="center">Hi 👋, I'm Ferdi</h1>
 <h3 align="center">A passionate Android developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdidrgn&label=Profile%20views&color=0e75b6&style=flat" alt="ferdidrgn" /> </p>
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=ferdidrgn)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferdidrgn" alt="ferdidrgn" /></a> </p>
+# Summary
+My CV page: ...
 
-<p align="left"> <a href="https://twitter.com/ferdidrgn_" target="blank"><img src="https://img.shields.io/twitter/follow/ferdidrgn_?logo=twitter&style=for-the-badge" alt="ferdidrgn_" /></a> </p>
+# Skills
+- Languages: Kotlin, Python
+- Databases: SQL, SqlLite, MySQL
+- Version Control: Git, GitHub, Bitbucket
+- Agile Scrum: Jira
+- UI Design: Figma, Zeplin
+
+
+# ferdidurgun
 
 - 🔭 I’m currently working on [AnlikDepremler](https://github.com/ferdidrgn/AnlikDepremler/)
 
@@ -40,6 +48,12 @@
 <p><a href="https://banabicoffee.com/@ferdidrgn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://banabicoffee.com/@ferdidrgn" /></a></p><br><br>
 
 <p>  </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdidrgn&label=Profile%20views&color=0e75b6&style=flat" alt="ferdidrgn" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferdidrgn" alt="ferdidrgn" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ferdidrgn_" target="blank"><img src="https://img.shields.io/twitter/follow/ferdidrgn_?logo=twitter&style=for-the-badge" alt="ferdidrgn_" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdidrgn&show_icons=true&locale=en&layout=compact" alt="ferdidrgn" /></p>
 
